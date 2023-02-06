@@ -92,8 +92,6 @@ SQL Developr
 - 操作记录（操作记录编号，管理员工号，书库编号，教材编号，教材数量，院系编号，操作时间，操作类型）
 
 
-
-
 ![E-R书库](https://github.com/lsjsss/OracleProject/blob/main/TextbookSystem/E-RImage/E-R-Library.png)
 
 ![E-R教材](https://github.com/lsjsss/OracleProject/blob/main/TextbookSystem/E-RImage/E-R-Book.png)
@@ -105,11 +103,6 @@ SQL Developr
 ![E-R书库管理员](https://github.com/lsjsss/OracleProject/blob/main/TextbookSystem/E-RImage/E-R-Manager.png)
 
 ![E-R操作记录](https://github.com/lsjsss/OracleProject/blob/main/TextbookSystem/E-RImage/E-R-Records.png)
-
-
-
-
-
 
 
 ### 3.1.5 规范化数据
