@@ -69,7 +69,7 @@ SQL Developr
 
 #### 3.1.2.2 绘制E-R图：
 
-![E-R图](https://github.com/lsjsss/OracleProject/blob/main/TextbookSystem/E-RImage/E-RImage.png)
+![E-R图](https://github.com/lsjsss/OracleProject/blob/main/TextbookSystem/E-RImage/E-R-Image.png)
 
 ### 3.1.3 将多对多关系更改为实体
 	
@@ -94,6 +94,17 @@ SQL Developr
 
 
 
+![E-R书库](https://github.com/lsjsss/OracleProject/blob/main/TextbookSystem/E-RImage/E-R-Library.png)
+
+![E-R教材](https://github.com/lsjsss/OracleProject/blob/main/TextbookSystem/E-RImage/E-R-Book.png)
+
+![E-R出版社](https://github.com/lsjsss/OracleProject/blob/main/TextbookSystem/E-RImage/E-R-Press.png)
+
+![E-R院系](https://github.com/lsjsss/OracleProject/blob/main/TextbookSystem/E-RImage/E-R-Faculty.png)
+
+![E-R书库管理员](https://github.com/lsjsss/OracleProject/blob/main/TextbookSystem/E-RImage/E-R-Manager.png)
+
+![E-R操作记录](https://github.com/lsjsss/OracleProject/blob/main/TextbookSystem/E-RImage/E-R-Records.png)
 
 
 
