@@ -69,11 +69,7 @@ SQL Developr
 
 #### 3.1.2.2 绘制E-R图：
 
-
-![这是图片](/assets/img/philly-magic-garden.jpg "Magic Gardens")
-
-
-
+![E-R图](https://github.com/lsjsss/OracleProject/blob/main/TextbookSystem/E-RImage/E-R%E5%9B%BE.png)
 
 ### 3.1.3 将多对多关系更改为实体
 	
